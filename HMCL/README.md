@@ -24,7 +24,7 @@
 
 找到你想要游玩的Minecraft版本对应的Java版本
 
-![Error](static/images/JavaDownload/1.png)
+<img src="static/images/JavaDownload/1.png" alt="Error" style="zoom: 67%;" />
 
 ### 安装
 
