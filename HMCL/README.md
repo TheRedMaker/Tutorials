@@ -14,17 +14,17 @@
 
 下载地址：https://www.oracle.com/java/technologies/downloads/
 
-不同的Minecraft版本需要对应不同的Java版本才能运行
+打开Java下载地址，找到Java17
 
-| Minecraft版本  | Java版本 |
-| :------------: | :------: |
-|    [1.18, )    |    17    |
-| [1.13, 1.16.5] |    16    |
-|   (, 1.12.2]   |    8     |
+<img src="static/images/JavaDownload/1.png" alt="Error" width="580" />
 
-找到你想要游玩的Minecraft版本对应的Java版本
+选择与你电脑对应的操作系统
 
-<img src="static/images/JavaDownload/1.png" alt="Error" width="540" />
+<img src="static/images/JavaDownload/2.png" alt="Error" width="580" />
+
+下载压缩包或者安装向导
+
+<img src="static/images/JavaDownload/3.png" alt="Error" width="580" />
 
 ### 安装
 
