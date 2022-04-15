@@ -246,5 +246,55 @@ LittleSkin官网：https://littleskin.cn/
 
 ### 3.3 从HMCL上下载Minecraft<i id="cc"></i>
 
+在下载Minecraft前先来看看这些设置
+
+点击打开版本列表
+
+<img src="static/images/hmcl/mcdownload/1.png" />
+
+点击添加游戏目录
+
+游戏目录就是，你下载的Minecraft要放到哪里
+
+所以，最好去看一下游戏目录的位置，**最好不要放在系统盘（C盘）**，放在其他盘
+
+<img src="static/images/hmcl/mcdownload/2.png" />
+
+<img src="static/images/hmcl/mcdownload/3.png" />
+
+名称可以随便填
+
+名称在这个地方显示
+
+<img src="static/images/hmcl/mcdownload/4.png" />
+
+如果你勾选了“若可能，游戏目录使用相对路径”
+
+Minecraft就会放到HMCL启动器所在的目录下面
+
+<img src="static/images/hmcl/mcdownload/5.png" />
+
+点击打开设置
+
+<img src="static/images/hmcl/mcdownload/6.png" />
+
+文件下载缓存目录
+
+换不换都行，默认是在系统盘（C盘）
+
+<img src="static/images/hmcl/mcdownload/7.png" />
+
+下载源
+
+如果遇到下载失败或者下载速度慢，更换下载源试试
+
+<img src="static/images/hmcl/mcdownload/8.png" />
+
+接下来开始下载Minecraft了
+
+点击版本列表
+
+<img src="static/images/hmcl/mcdownload/1.png" />
+
 ### 3.4 管理和设置Minecraft<i id="cd"></i>
 
