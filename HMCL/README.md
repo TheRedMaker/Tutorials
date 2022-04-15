@@ -71,51 +71,51 @@
 
 2. 找到高级系统设置，打开
 
-  <img src="static/images/java/ev/1.png" alt="Error" width="580" />
+	<img src="static/images/java/ev/1.png" alt="Error" width="580" />
 
 3. 点击环境变量
 
-  ![Error](static/images/java/ev//2.png)
+	![Error](static/images/java/ev/2.png)
 
 4. 添加Java系统环境变量
 
-  **Java环境变量要添加到系统环境变量里，而不是用户变量！！**
+	**Java环境变量要添加到系统环境变量里，而不是用户变量！！**
 
-  点击新建
+	点击新建
 
-  <img src="static/images/java/ev/3.png" alt="Error" width="580" />
+	<img src="static/images/java/ev/3.png" alt="Error" width="580" />
 
-  变量名可以随便填写，但是为了方便识别，写上JavaHome
+	变量名可以随便填写，但是为了方便识别，写上JavaHome
 
-  变量值就是Java的安装路径**(一定要是绝对路径)**
+	变量值就是Java的安装路径**(一定要是绝对路径)**
 
-  Java安装目录下的文件应该是这样的
+	Java安装目录下的文件应该是这样的
 
-  <img src="static/images/java/ev/4.png" alt="Error" width="580" />
+	<img src="static/images/java/ev/4.png" alt="Error" width="580" />
 
-  设置完成后点击确定
+	设置完成后点击确定
 
-  <img src="static/images/java/ev/5.png" alt="Error" width="580" />
+	<img src="static/images/java/ev/5.png" alt="Error" width="580" />
 
-  双击打开path
+	双击打开path
 
-  <img src="static/images/java/ev/6.png" alt="Error" width="580" />
+	<img src="static/images/java/ev/6.png" alt="Error" width="580" />
 
-  然后点击新建
+	然后点击新建
 
-  输入%JavaHome%\bin
+	输入%JavaHome%\bin
 
-  %JavaHome%就是调用刚刚创建的JavaHome的变量值
+	%JavaHome%就是调用刚刚创建的JavaHome的变量值
 
-  bin是Java安装目录下的一个文件夹
+	bin是Java安装目录下的一个文件夹
 
-  所以%JavaHome%\bin就是E:\TheRedMaker_\idk\Java17\bin_
+	所以%JavaHome%\bin就是E:\TheRedMaker_\idk\Java17\bin_
 
-  你也可以不用创建JavaHome，直接在path里面新建，然后填写Java安装路径+\bin就可以，如：E:\TheRedMaker_\idk\Java17\bin
+	你也可以不用创建JavaHome，直接在path里面新建，然后填写Java安装路径+\bin就可以，如：E:\TheRedMaker_\idk\Java17\bin
 
-  ![Error](static/images/java/ev/7.png)
+	![Error](static/images/java/ev/7.png)
 
-  然后点击确定（3个窗口都点确定)，Java环境变量就设置好了
+	然后点击确定（3个窗口都点确定)，Java环境变量就设置好了
 
 5. 检查Java的环境变量是否设置正确
 
