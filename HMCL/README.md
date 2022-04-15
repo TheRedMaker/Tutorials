@@ -1,24 +1,30 @@
 ## 教程简介
 
-==**本教程作者：TheRedMaker_**==
+**本教程作者：TheRedMaker_**
 
-==**本教程以Win10操作系统演示**==
+**本教程以Win10操作系统演示**
 
 你将学会怎么使用HMCL启动器游玩Minecraft并且和你的好朋友一起联机
 
-Java下载，安装，设置环境变量
+<a href="#a">1. Java下载，安装，设置环境变量</a>
+
+​	<a href="aa">1.1 下载</a>
+
+​	<a href="ab">1.2 安装</a>
+
+​	<a href="ac">1.3 设置环境变量</a>
 
 HMCL启动器下载，设置启动器，下载Minecraft
 
 LittleSkin注册，设置，皮肤，披风
 
-[HMCL启动器自带的联机功能](#1.3设置环境变量)
+HMCL启动器自带的联机功能
 
 内外穿透联机
 
-## 1. Java下载，安装，设置环境变量
+## 1. Java下载，安装，设置环境变量<i id="a"></i>
 
-### 1.1 下载
+### 1.1 下载<i id="aa"></i>
 
 下载地址：https://www.oracle.com/java/technologies/downloads/
 
@@ -26,7 +32,7 @@ LittleSkin注册，设置，皮肤，披风
 
 <img src="static/images/JavaDownload/1.png" alt="Error" width="580" />
 
-选择与你电脑对应的操作系统
+2. 选择与你电脑对应的操作系统
 
 <img src="static/images/JavaDownload/2.png" alt="Error" width="580" />
 
@@ -34,7 +40,7 @@ LittleSkin注册，设置，皮肤，披风
 
 <img src="static/images/JavaDownload/3.png" alt="Error" width="580" />
 
-### 1.2 安装
+### 1.2 安装<i id="ab"></i>
 
 如果下载的是压缩包（直接解压就好），可以跳过这一步，去看设置环境变量
 
@@ -46,8 +52,8 @@ LittleSkin注册，设置，皮肤，披风
 
 ![Error](static/images/JavaInstall/2.png)
 
-3. 可以更改Java安装路径，也可以保持默认安装路径，==**一定要记住Java安装的路径**==
-	然后点击下一步
+3. 可以更改Java安装路径，也可以保持默认安装路径，**一定要记住Java安装的路径**
+然后点击下一步
 
 ![Error](static/images/JavaInstall/3.png)
 
@@ -55,7 +61,7 @@ LittleSkin注册，设置，皮肤，披风
 
 ![Error](static/images/JavaInstall/4.png)
 
-### 1.3设置环境变量
+### 1.3 设置环境变量<i id="ac"></i>
 
 如果下载的是压缩包，需要手动添加Java环境变量
 
@@ -69,28 +75,26 @@ LittleSkin注册，设置，皮肤，披风
 
 3. 点击环境变量
 
-	![Error](static/images/JavaEV/2.png)
+![Error](static/images/JavaEV/2.png)
 
 4. 添加Java系统环境变量
 
-	==**Java环境变量要添加到系统环境变量里，而不是用户变量！！**==
+**Java环境变量要添加到系统环境变量里，而不是用户变量！！**
 
-	点击新建
+点击新建
 
-	<img src="static/images/JavaEV/3.png" alt="Error" width="580" />
-	
-	变量名可以随便填写，但是为了方便识别，写上JavaHome
-	
-	变量值就是Java的安装路径
-	
-	==**变量值一定要是绝对路径**==
-	
-	
-	
-	![Error](static/images/JavaEV/4.png)
-	
-	asd
+<img src="static/images/JavaEV/3.png" alt="Error" width="580" />
+
+变量名可以随便填写，但是为了方便识别，写上JavaHome
+
+变量值就是Java的安装路径
+
+**变量值一定要是绝对路径**
+
+![Error](static/images/JavaEV/4.png)
+
+asd
 
 5. asdasd
 
-## 2. HMCL启动器下载，设置启动器，下载Minecraft
+## 2. HMCL启动器下载，设置启动器，下载Minecraft<i id="b"></i>
