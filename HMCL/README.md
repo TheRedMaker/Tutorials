@@ -7,9 +7,12 @@
 你将学会怎么使用HMCL启动器游玩Minecraft并且和你的好朋友一起联机
 
 1. [Java下载，安装，设置环境变量](#a)
-  - [1.1 下载](#aa)
-  - [1.2 安装](#ab)
-  - [1.3 设置环境变量](#ac)
+
+	  - [1.1 下载](#aa)
+
+	  - [1.2 安装](#ab)
+
+	  - [1.3 设置环境变量](#ac)
 
 2. [LittleSkin注册，设置，皮肤，披风](#b)
 	- [2.1 注册](#ba)
@@ -18,14 +21,16 @@
 
 3. [HMCL下载，使用方法和设置，从HMCL上下载Minecraft](#c)
 
-- [3.1 HMCL下载](#ca)
+	- [3.1 HMCL下载](#ca)
 
-- [3.2 启动器使用方法和设置](#cb)
-	- [3.2.1 使用方法](#cba)
 
-	- [3.2.2 设置](#cbb)
+	- [3.2 启动器使用方法和设置](#cb)
+		- [3.2.1 使用方法](#cba)
 
-- [3.3 从HMCL启动器下载Minecraft](#cc)
+		- [3.2.2 设置](#cbb)
+
+
+	- [3.3 从HMCL启动器下载Minecraft](#cc)
 
 4. HMCL启动器自带的联机功能
 
@@ -163,7 +168,9 @@ LittleSkin官网：https://littleskin.cn/
 
 注册完后，进入仪表盘页面
 
-这里可以签到积分，上传皮肤，资源等，都需要用到积分
+这里可以签到积分
+
+上传皮肤，资源等，都需要用到积分
 
 <img src="static/images/littleskin/3.png" alt="Error" />
 
@@ -201,7 +208,7 @@ LittleSkin官网：https://littleskin.cn/
 
 <img src="static/images/littleskin/11.png" />
 
-这样你的皮肤，披风就设置好了，其他的LittleSkin玩家在和你联机的时候是可以看到你的皮肤的
+这样你的皮肤，披风就设置好了，其他的LittleSkin玩家和你联机的时候是可以看到你的皮肤的
 
 你也可以从LittleSkind皮肤库里面下载其他玩家上传的皮肤
 
