@@ -43,23 +43,25 @@
 
 1. 打开Java安装向导
 
-  ![Error](static/images/java/install/1.png)
+	![Error](static/images/java/install/1.png)
 
 2. 点击下一步
 
-  ![Error](static/images/java/install/2.png)
+	![Error](static/images/java/install/2.png)
+
+	
 
 3. 可以更改Java安装路径，也可以保持默认安装路径
 
-  **一定要记住Java安装的路径**
+	**一定要记住Java安装的路径**
 
-  然后点击下一步
+	然后点击下一步
 
-  ![Error](static/images/java/install/3.png)
+	![Error](static/images/java/install/3.png)
 
 4. 安装完成后，点击关闭
 
-  ![Error](static/images/java/install/4.png)
+	![Error](static/images/java/install/4.png)
 
 ### 设置环境变量<i id="ac"></i>
 
