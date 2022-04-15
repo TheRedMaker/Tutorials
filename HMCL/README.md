@@ -8,11 +8,11 @@
 
 Java下载，安装，设置环境变量
 
-[HMCL启动器下载，设置启动器，下载Minecraft](#2. HMCL启动器下载，设置启动器，下载Minecraft)
+HMCL启动器下载，设置启动器，下载Minecraft
 
 LittleSkin注册，设置，皮肤，披风
 
-HMCL启动器自带的联机功能
+[HMCL启动器自带的联机功能](#1.3 设置环境变量)
 
 内外穿透联机
 
