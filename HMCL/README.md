@@ -11,17 +11,21 @@
   - [1.2 安装](#ab)
   - [1.3 设置环境变量](#ac)
 
-2. [HMCL下载，使用方法和设置，从HMCL上下载Minecraft](#b)
-	- [2.1 HMCL下载](#ba)
+2. [LittleSkin注册，设置，皮肤，披风](#b)
+	- [2.1 注册](#ba)
+	- [2.2 设置](#bb)
+	- [2.3 皮肤，披风](#bc)
 
-	- [2.2 启动器使用方法和设置](#bb)
-		- [2.2.1 使用方法](#bba)
+3. [HMCL下载，使用方法和设置，从HMCL上下载Minecraft](#c)
 
-		- [2.2.2 设置](#bbb)
+- [3.1 HMCL下载](#ca)
 
-	- [2.3 从HMCL启动器下载Minecraft](#bc)
+- [3.2 启动器使用方法和设置](#cb)
+	- [3.2.1 使用方法](#cba)
 
-3. LittleSkin注册，设置，皮肤，披风
+	- [3.2.2 设置](#cbb)
+
+- [3.3 从HMCL启动器下载Minecraft](#cc)
 
 4. HMCL启动器自带的联机功能
 
@@ -35,15 +39,15 @@
 
 1. 打开Java下载地址，找到Java17
 
-	<img src="static/images/java/download/1.png" alt="Error" width="580" />
+	<img src="static/images/java/download/1.png" alt="Error" />
 
 2. 选择与你电脑对应的操作系统
 
-	<img src="static/images/java/download/2.png" alt="Error" width="580" />
+	<img src="static/images/java/download/2.png" alt="Error" />
 
 3. 下载压缩包或者安装向导
 
-	<img src="static/images/java/download/3.png" alt="Error" width="580" />
+	<img src="static/images/java/download/3.png" alt="Error" />
 
 ### 1.2 安装<i id="ab"></i>
 
@@ -81,7 +85,7 @@
 
 2. 找到高级系统设置，打开
 
-	<img src="static/images/java/ev/1.png" alt="Error" width="580" />
+	<img src="static/images/java/ev/1.png" alt="Error" />
 
 3. 点击环境变量
 
@@ -93,7 +97,7 @@
 
 	点击新建
 
-	<img src="static/images/java/ev/3.png" alt="Error" width="580" />
+	<img src="static/images/java/ev/3.png" alt="Error" />
 
 	变量名可以随便填写，但是为了方便识别，写上JavaHome
 
@@ -101,15 +105,15 @@
 
 	Java安装目录下的文件应该是这样的
 
-	<img src="static/images/java/ev/4.png" alt="Error" width="580" />
+	<img src="static/images/java/ev/4.png" alt="Error"/>
 
 	设置完成后点击确定
 
-	<img src="static/images/java/ev/5.png" alt="Error" width="580" />
+	<img src="static/images/java/ev/5.png" alt="Error" />
 
 	双击打开path
 
-	<img src="static/images/java/ev/6.png" alt="Error" width="580" />
+	<img src="static/images/java/ev/6.png" alt="Error" />
 
 	然后点击新建
 
@@ -143,9 +147,67 @@
 
 	<img src="static/images/java/evcheck/2.png" alt="Error" width="580" />
 
-## 2. HMCL下载，使用方法和设置，从HMCL上下载Minecraft<i id="b"></i>
+## 2. LittleSkin注册，设置，皮肤，披风<i id="b"></i>
 
-### 2.1 HMCL下载<i id="ba"></i>
+### 2.1 注册<i id="ba"></i>
+
+LittleSkin官网：https://littleskin.cn/
+
+打开LittleSkin的官网，注册一个账号
+
+<img src="static/images/littleskin/1.png">
+
+<img src="static/images/littleskin/2.png">
+
+### 2.2 设置<i id="bb"></i>
+
+注册完后，进入仪表盘页面
+
+这里可以签到积分，上传皮肤，资源等，都需要用到积分
+
+<img src="static/images/littleskin/3.png" alt="Error" />
+
+点击角色管理，添加新角色
+
+<img src="static/images/littleskin/4.png" />
+
+按照提示输入正确的用户名，然后点击确定
+
+<img src="static/images/littleskin/5.png" />
+
+### 2.3 皮肤，披风<i id="bc"></i>
+
+来到我的衣柜，这里可以管理你下载，上传的皮肤或披风
+
+点击上传材质，可以上传你自己的皮肤和披风
+
+<img src="static/images/littleskin/6.png" />
+
+<img src="static/images/littleskin/7.png" />
+
+设置为私密材质，勾选后，你上传的材质不会在LittleSkin的皮肤库里面出现，如果不设置为私密材质，你的皮肤就会在皮肤库里面出现，其他的LittleSkin玩家就可以从皮肤库里面下载你上传的皮肤，如果你不想让其他玩家使用你的皮肤，就把皮肤设置成私密材质吧，但这会额外消耗你的积分
+
+<img src="static/images/littleskin/8.png" />
+
+然后来到我的衣柜，点击刚刚上传的皮肤或者披风
+
+<img src="static/images/littleskin/9.png" />
+
+然后点击使用
+
+<img src="static/images/littleskin/10.png" />
+
+选择要使用这些材质的角色
+
+<img src="static/images/littleskin/11.png" />
+
+这样你的皮肤，披风就设置好了，其他的LittleSkin玩家在和你联机的时候是可以看到你的皮肤的
+
+你也可以从LittleSkind皮肤库里面下载其他玩家上传的皮肤
+
+## 3. HMCL下载，使用方法和设置，从HMCL上下载Minecraft<i id="c"></i>
+
+### 3.1 HMCL下载<i id="ca"></i>
 
 下载地址：http://hmcl.huangyuhui.net/download/
 
@@ -153,12 +215,11 @@
 
 <img src="static/images/hmcl/download/1.png" alt="Error" width="580" />
 
-### 2.2 使用方法和设置<i id="bb"></i>
+### 3.2 使用方法和设置<i id="cb"></i>
 
-### 2.2.1 使用方法<i id="bba"></i>
+### 3.2.1 使用方法<i id="cba"></i>
 
-在这里可以管理你的账户
+### 3.2.1 设置<i id="cbb"></i>
 
-### 2.2.1 设置<i id="bbb"></i>
+### 3.3 从HMCL上下载Minecraft<i id="cc"></i>
 
-### 2.3 从HMCL上下载Minecraft<i id="bc"></i>
