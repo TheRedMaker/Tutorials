@@ -8,11 +8,11 @@
 
 <a href="#a">1. Java下载，安装，设置环境变量</a>
 
-​	<a href="aa">1.1 下载</a>
+​	<a href="#aa">1.1 下载</a>
 
-​	<a href="ab">1.2 安装</a>
+​	<a href="#ab">1.2 安装</a>
 
-​	<a href="ac">1.3 设置环境变量</a>
+​	<a href="#ac">1.3 设置环境变量</a>
 
 HMCL启动器下载，设置启动器，下载Minecraft
 
