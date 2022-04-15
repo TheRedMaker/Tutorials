@@ -134,3 +134,9 @@
 	<img src="static/images/java/evcheck/2.png" alt="Error" width="580" />
 
 ## 2. HMCL启动器下载，设置启动器，下载Minecraft<i id="b"></i>
+
+### HMCL启动器下载
+
+### 设置启动器
+
+### 下载Minecraft
