@@ -8,7 +8,7 @@
 
 ## 目录
 
-1. [Java下载，安装，设置环境变量](#a)
+1. [Java](#a)
 
 	  - [1.1 下载](#aa)
 
@@ -16,26 +16,25 @@
 
 	  - [1.3 设置环境变量](#ac)
 
-2. [LittleSkin注册，设置，皮肤，披风](#b)
+2. [LittleSkin](#b)
 	- [2.1 注册](#ba)
 	- [2.2 设置](#bb)
 	- [2.3 皮肤，披风](#bc)
 
-3. [HMCL下载，使用方法和设置，从HMCL上下载Minecraft](#c)
+3. [HMCL启动器](#c)
 
 	- [3.1 HMCL下载](#ca)
 
+	- [3.2 HMCL添加外置账户](#cb)
 
-	- [3.2 HMCL设置](#cb)
-		
-
-	- [3.3 从HMCL启动器下载Minecraft](#cc)
+	- [3.3 从HMCL上下载Minecraft](#cc)
+	- [3.4 管理和设置Minecraft](#cd)
 
 4. HMCL启动器自带的联机功能
 
 5. 内外穿透联机
 
-## 1. Java下载，安装，设置环境变量<i id="a"></i>
+## 1. Java<i id="a"></i>
 
 **目前我知道Java17可以运行1.12.2 - 1.18.2，我也不知道Java17能不能运行小于1.12.2的Minecraft版本，因为我玩的最低的Minecraft版本是1.12.2，像1.7.10,1.8这些更低的版本我现在都不玩（以前1.12.2还没发布的时候还是玩的），我很少玩低版本（除非想玩一些高版本没有的模组），现在都是在玩高版本：1.18, 1.19**
 
@@ -153,7 +152,7 @@
 
 	<img src="static/images/java/evcheck/2.png" alt="Error" width="580" />
 
-## 2. LittleSkin注册，设置，皮肤，披风<i id="b"></i>
+## 2. LittleSkin<i id="b"></i>
 
 ### 2.1 注册<i id="ba"></i>
 
@@ -213,7 +212,7 @@ LittleSkin官网：https://littleskin.cn/
 
 你也可以从LittleSkind皮肤库里面下载其他玩家上传的皮肤
 
-## 3. HMCL下载，使用方法和设置，从HMCL上下载Minecraft<i id="c"></i>
+## 3. HMCL启动器<i id="c"></i>
 
 ### 3.1 HMCL下载<i id="ca"></i>
 
@@ -223,7 +222,29 @@ LittleSkin官网：https://littleskin.cn/
 
 <img src="static/images/hmcl/download/1.png" alt="Error" width="580" />
 
-### 3.2 HMCL设置<i id="cb"></i>
+### 3.2 HMCL添加外置账户<i id="cb"></i>
+
+点击这里打开账户管理界面
+
+<img src="static/images/hmcl/account/1.png" />
+
+点击添加认证服务器
+
+<img src="static/images/hmcl/account/2.png" />
+
+然后填上LittleSkin的认证服务器地址
+
+认证服务器地址在LittleSkin官网仪表盘页面可以找到
+
+<img src="static/images/hmcl/account/3.png" />
+
+认证服务器地址：https://littleskin.cn/api/yggdrasil
+
+之后点击这里来添加LittleSkin角色
+
+<img src="static/images/hmcl/account/4.png" />
 
 ### 3.3 从HMCL上下载Minecraft<i id="cc"></i>
+
+### 3.4 管理和设置Minecraft<i id="cd"></i>
 
