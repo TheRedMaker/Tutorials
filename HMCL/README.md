@@ -12,7 +12,7 @@ HMCL启动器下载，设置启动器，下载Minecraft
 
 LittleSkin注册，设置，皮肤，披风
 
-[HMCL启动器自带的联机功能](#1.3 设置环境变量)
+[HMCL启动器自带的联机功能](#1.3设置环境变量)
 
 内外穿透联机
 
@@ -55,7 +55,7 @@ LittleSkin注册，设置，皮肤，披风
 
 ![Error](static/images/JavaInstall/4.png)
 
-### 1.3 设置环境变量
+### 1.3设置环境变量
 
 如果下载的是压缩包，需要手动添加Java环境变量
 
