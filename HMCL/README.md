@@ -8,9 +8,9 @@
 
 Java下载，安装，设置环境变量
 
-[HMCL启动器下载，设置启动器，下载Minecraft](#test)
+[HMCL启动器下载，设置启动器，下载Minecraft](#2. HMCL启动器下载，设置启动器，下载Minecraft)
 
-LittleSkin注册，设置，皮肤，披风<a href="#test">asd</a>
+LittleSkin注册，设置，皮肤，披风
 
 HMCL启动器自带的联机功能
 
@@ -94,4 +94,3 @@ HMCL启动器自带的联机功能
 5. asdasd
 
 ## 2. HMCL启动器下载，设置启动器，下载Minecraft
-<h2 id="test">hhhhhhhh</h2>
