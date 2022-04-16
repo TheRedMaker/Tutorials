@@ -296,5 +296,36 @@ Minecraft就会放到HMCL启动器所在的目录下面
 
 <img src="static/images/hmcl/mcdownload/1.png" />
 
+点击安装新游戏版本
+
+<img src="static/images/hmcl/mcdownload/9.png" />
+
+<img src="static/images/hmcl/mcdownload/10.png" />
+
+可以安装Forge和Optifine，在这里装的Optifine可以不需要Forge
+
+<img src="static/images/hmcl/mcdownload/11.png" />
+
 ### 3.4 管理和设置Minecraft<i id="cd"></i>
 
+在开始游戏之前，我们还要来看一些重要的设置
+
+点击这里可以管理和设置当前的游戏版本
+
+<img src="static/images/hmcl/settings/1.png" />
+
+勾选“启动游戏特定设置”可以单独对这个版本进行设置
+
+**建议你们把每个版本都分开放到一个单独的文件夹，如果不把版本分开放，你的所有版本会使用同一个mods文件夹，材质包文件夹等资源**
+
+**1.12.2的mod，1.18用不吧？**
+
+**HMCL启动器上也说了**
+
+<img src="static/images/hmcl/settings/2.png" />
+
+如果你不勾选“启用游戏特定设置”
+
+就会使用全局游戏设置，也就是这里的
+
+<img src="static/images/hmcl/settings/3.png" />
